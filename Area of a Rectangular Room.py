@@ -1,4 +1,4 @@
-# Create a program that calculates the area of a room, display the area in both square fit and square meters.
+# Create a program that calculates the area of a room, display the area in both square feet and square meters.
 
 print("What is the length of the room? ")
 length = input()
