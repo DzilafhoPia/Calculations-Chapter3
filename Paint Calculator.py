@@ -9,4 +9,4 @@ area = length * width
 area_per_gallon = float(1/350)
 gallon = area * area_per_gallon
 number_of_gallons = math.ceil(gallon)
-print(f"You will need to purchase {number_of_gallons} gallons of paint to cover {area} square feet.")
+print(f"You will need to purchase {number_of_gallons} gallon of paint to cover {area} square feet.")
